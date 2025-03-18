@@ -1,12 +1,11 @@
-.gitignore
-Build.PL
 Changes
+lib/Module/Runtime.pm
+Makefile.PL
 MANIFEST
+MANIFEST.SKIP
 META.json
 META.yml
-Makefile.PL
 README
-lib/Module/Runtime.pm
 t/cmn.t
 t/dependency.t
 t/import_error.t
